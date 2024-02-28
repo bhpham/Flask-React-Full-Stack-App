@@ -1,0 +1,3 @@
+A full-stack web applications display all personal contact lists. 
+Functional requirements: Users can be able to display/add/edit/delete contacts.
+Utilize tech: Python Flask, ReactJS, HTML, CSS, etc... 
